@@ -1,7 +1,6 @@
 def my_each(array)
  i=0
-  new_array=[]
-  while 
+  while array <
 end
 array
 end
